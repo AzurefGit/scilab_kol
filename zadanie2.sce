@@ -1,4 +1,4 @@
-a)function y1 = f(x)
+function y1 = f(x)
   > y1 = cos(2*x);
   > endfunction
 
